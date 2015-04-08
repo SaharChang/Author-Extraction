@@ -1,0 +1,436 @@
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html--Schahram Dustdar
+-http://gustavus.edu/+max/java-os-courses.html--Max Hailperin
+-http://pages.physics.cornell.edu/sss/--R. H. Silsbee
+-http://plato.stanford.edu/entries/statphys-statmech/--Lawrence Sklar
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html--A. M. Steane
+-http://science.widener.edu/svb/stats/stats.html--Scott Van Bramer
+-http://www.physicalgeography.net/fundamentals/2f.html--Michael Pidwirny
+-http://gis.washington.edu/cfr250/main/schedule.html--Phil Hurvitz
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm--Kevin Mcleod
+-http://tvmet.sourceforge.net/introduction.html--Olaf Petzold
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/--Mircea NICOLESCU
+-http://www.haverford.edu/wintnerorganicchem/--Claude Wintner
+-http://www.cs.technion.ac.il/Courses/Operating-Systems-Structure/--Uriel Cohen
+-http://www.cs.purdue.edu/homes/fahmy/cs354f06/index.html--Sonia Fahmy
+-http://chronicle.com/data/internet.dir/itdata/1997/10/t97102101.htm--KELLY McCOLLUM
+-http://www.globalsecurity.org/military/library/report/call/call_89-4_inte.htm--John Pike
+-http://users.encs.concordia.ca/~mokhov/comp346/--Serguei A. Mokhov
+-http://www.lspace.org/fandom/afp/timelines/stone.html--Leo Breebaart
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm--R M Stelting
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm--Moninder Bubber
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html--Borut Telban
+-http://www.thesciencebookstore.com/bookmain.asp?bookcat=Biography--J.F.Ptak
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://www.thesciencebookstore.com/bookmain.asp?bookcat=Biography
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://www.duke.edu/~charvey/Classes/wpg/glossary.htm--Harvey Campbell
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html--Schahram Dustdar
+-http://gustavus.edu/+max/java-os-courses.html--Max Hailperin
+-http://solidstate.physics.sunysb.edu/teach/intlearn/--Carlos Rivera
+-http://pages.physics.cornell.edu/sss/--R. H. Silsbee
+-http://plato.stanford.edu/entries/statphys-statmech/--Lawrence Sklar
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html--A. M. Steane
+-http://science.widener.edu/svb/stats/stats.html--Scott Van Bramer
+-http://www.physicalgeography.net/fundamentals/2f.html--Michael Pidwirny
+-http://gis.washington.edu/cfr250/main/schedule.html--Phil Hurvitz
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm--Kevin Mcleod
+-http://tvmet.sourceforge.net/introduction.html--Olaf Petzold
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/--Mircea NICOLESCU
+-http://www.gc.maricopa.edu/math/MATcourses.htm--Dr. Tom Foley
+-http://www.haverford.edu/wintnerorganicchem/--Claude Wintner
+-http://www.cs.technion.ac.il/Courses/Operating-Systems-Structure/--Uriel Cohen
+-http://chronicle.com/data/internet.dir/itdata/1997/10/t97102101.htm--KELLY McCOLLUM
+-http://cis.stvincent.edu/html/curriculum/courses.html--Br. David Carlson
+-http://www.globalsecurity.org/military/library/report/call/call_89-4_inte.htm--John Pike
+-http://users.encs.concordia.ca/~mokhov/comp346/--Serguei A. Mokhov
+-http://www.lspace.org/fandom/afp/timelines/stone.html--Leo Breebaart
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm--R M Stelting
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm--Moninder Bubber
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html--Borut Telban
+-http://www.thesciencebookstore.com/bookmain.asp?bookcat=Biography--J.F.Ptak
+-http://www.duke.edu/~charvey/Classes/wpg/glossary.htm--Harvey Campbell
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html--Schahram Dustdar
+-http://gustavus.edu/+max/java-os-courses.html--Max Hailperin
+-http://solidstate.physics.sunysb.edu/teach/intlearn/--Carlos Rivera
+-http://pages.physics.cornell.edu/sss/--R. H. Silsbee
+-http://plato.stanford.edu/entries/statphys-statmech/--Lawrence Sklar
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html--A. M. Steane
+-http://science.widener.edu/svb/stats/stats.html--Scott Van Bramer
+-http://www.physicalgeography.net/fundamentals/2f.html--Michael Pidwirny
+-http://gis.washington.edu/cfr250/main/schedule.html--Phil Hurvitz
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm--Kevin Mcleod
+-http://tvmet.sourceforge.net/introduction.html--Olaf Petzold
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/--Mircea NICOLESCU
+-http://www.gc.maricopa.edu/math/MATcourses.htm--Dr. Tom Foley
+-http://www.haverford.edu/wintnerorganicchem/--Claude Wintner
+-http://www.cs.technion.ac.il/Courses/Operating-Systems-Structure/--Uriel Cohen
+-http://chronicle.com/data/internet.dir/itdata/1997/10/t97102101.htm--KELLY McCOLLUM
+-http://cis.stvincent.edu/html/curriculum/courses.html--Br. David Carlson
+-http://www.globalsecurity.org/military/library/report/call/call_89-4_inte.htm--John Pike
+-http://users.encs.concordia.ca/~mokhov/comp346/--Serguei A. Mokhov
+-http://www.lspace.org/fandom/afp/timelines/stone.html--Leo Breebaart
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm--R M Stelting
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm--Moninder Bubber
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html--Borut Telban
+-http://www.thesciencebookstore.com/bookmain.asp?bookcat=Biography--J.F.Ptak
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://www.duke.edu/~charvey/Classes/wpg/glossary.htm--Harvey Campbell
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html--Schahram Dustdar
+-http://gustavus.edu/+max/java-os-courses.html--Max Hailperin
+-http://solidstate.physics.sunysb.edu/teach/intlearn/--Carlos Rivera
+-http://pages.physics.cornell.edu/sss/--R. H. Silsbee
+-http://plato.stanford.edu/entries/statphys-statmech/--Lawrence Sklar
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html--A. M. Steane
+-http://science.widener.edu/svb/stats/stats.html--Scott Van Bramer
+-http://www.physicalgeography.net/fundamentals/2f.html--Michael Pidwirny
+-http://gis.washington.edu/cfr250/main/schedule.html--Phil Hurvitz
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm--Kevin Mcleod
+-http://tvmet.sourceforge.net/introduction.html--Olaf Petzold
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/--Mircea NICOLESCU
+-http://www.gc.maricopa.edu/math/MATcourses.htm--Dr. Tom Foley
+-http://www.haverford.edu/wintnerorganicchem/--Claude Wintner
+-http://www.cs.technion.ac.il/Courses/Operating-Systems-Structure/--Uriel Cohen
+-http://chronicle.com/data/internet.dir/itdata/1997/10/t97102101.htm--KELLY McCOLLUM
+-http://cis.stvincent.edu/html/curriculum/courses.html--Br. David Carlson
+-http://www.globalsecurity.org/military/library/report/call/call_89-4_inte.htm--John Pike
+-http://users.encs.concordia.ca/~mokhov/comp346/--Serguei A. Mokhov
+-http://www.lspace.org/fandom/afp/timelines/stone.html--Leo Breebaart
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm--R M Stelting
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm--Moninder Bubber
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html--Borut Telban
+-http://www.thesciencebookstore.com/bookmain.asp?bookcat=Biography--J.F.Ptak
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://www.duke.edu/~charvey/Classes/wpg/glossary.htm--Harvey Campbell
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html--Schahram Dustdar
+-http://gustavus.edu/+max/java-os-courses.html--Max Hailperin
+-http://solidstate.physics.sunysb.edu/teach/intlearn/--Carlos Rivera
+-http://pages.physics.cornell.edu/sss/--R. H. Silsbee
+-http://plato.stanford.edu/entries/statphys-statmech/--Lawrence Sklar
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html--A. M. Steane
+-http://science.widener.edu/svb/stats/stats.html--Scott Van Bramer
+-http://www.physicalgeography.net/fundamentals/2f.html--Michael Pidwirny
+-http://gis.washington.edu/cfr250/main/schedule.html--Phil Hurvitz
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm--Kevin Mcleod
+-http://tvmet.sourceforge.net/introduction.html--Olaf Petzold
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/--Mircea NICOLESCU
+-http://www.gc.maricopa.edu/math/MATcourses.htm--Dr. Tom Foley
+-http://www.haverford.edu/wintnerorganicchem/--Claude Wintner
+-http://www.cs.technion.ac.il/Courses/Operating-Systems-Structure/--Uriel Cohen
+-http://chronicle.com/data/internet.dir/itdata/1997/10/t97102101.htm--KELLY McCOLLUM
+-http://cis.stvincent.edu/html/curriculum/courses.html--Br. David Carlson
+-http://www.globalsecurity.org/military/library/report/call/call_89-4_inte.htm--John Pike
+-http://users.encs.concordia.ca/~mokhov/comp346/--Serguei A. Mokhov
+-http://www.lspace.org/fandom/afp/timelines/stone.html--Leo Breebaart
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm--R M Stelting
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm--Moninder Bubber
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html--Borut Telban
+-http://www.thesciencebookstore.com/bookmain.asp?bookcat=Biography--J.F.Ptak
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://www.thesciencebookstore.com/bookmain.asp?bookcat=Biography
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://www.duke.edu/~charvey/Classes/wpg/glossary.htm--Harvey Campbell
+-http://www.duke.edu/~charvey/Classes/wpg/glossary.htm--Harvey Campbell
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html--Schahram Dustdar
+-http://gustavus.edu/+max/java-os-courses.html--Max Hailperin
+-http://solidstate.physics.sunysb.edu/teach/intlearn/--Carlos Rivera
+-http://pages.physics.cornell.edu/sss/--R. H. Silsbee
+-http://plato.stanford.edu/entries/statphys-statmech/--Lawrence Sklar
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html--A. M. Steane
+-http://science.widener.edu/svb/stats/stats.html--Scott Van Bramer
+-http://www.physicalgeography.net/fundamentals/2f.html--Michael Pidwirny
+-http://gis.washington.edu/cfr250/main/schedule.html--Phil Hurvitz
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm--Kevin Mcleod
+-http://tvmet.sourceforge.net/introduction.html--Olaf Petzold
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/--Mircea NICOLESCU
+-http://www.gc.maricopa.edu/math/MATcourses.htm--Dr. Tom Foley
+-http://www.haverford.edu/wintnerorganicchem/--Claude Wintner
+-http://www.cs.technion.ac.il/Courses/Operating-Systems-Structure/--Uriel Cohen
+-http://chronicle.com/data/internet.dir/itdata/1997/10/t97102101.htm--KELLY McCOLLUM
+-http://cis.stvincent.edu/html/curriculum/courses.html--Br. David Carlson
+-http://www.globalsecurity.org/military/library/report/call/call_89-4_inte.htm--John Pike
+-http://users.encs.concordia.ca/~mokhov/comp346/--Serguei A. Mokhov
+-http://www.lspace.org/fandom/afp/timelines/stone.html--Leo Breebaart
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm--R M Stelting
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm--Moninder Bubber
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html--Borut Telban
+-http://www.thesciencebookstore.com/bookmain.asp?bookcat=Biography--J.F.Ptak
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html
+-http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html
+-http://pages.physics.cornell.edu/sss/
+-http://plato.stanford.edu/entries/statphys-statmech/
+-http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html
+-http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html
+-http://www.uwm.edu/~kevinm/teaching/276/frames.htm
+-http://tvmet.sourceforge.net/introduction.html
+-http://www.cse.unr.edu/~mircea/Teaching/cpe201/
+-http://apps.carleton.edu/curricular/cs/courses/
+-http://users.encs.concordia.ca/~mokhov/comp346/
+-http://www.ieeeboston.org/edu/2006spring/embedded_linux.htm
+-http://www.lib.sfu.ca/researchhelp/subjectguides/sa/classes/sa101IntrodToAnth.htm
+-http://my.execpc.com/~helberg/statbooks.html
+-http://coombs.anu.edu.au/Biblio/biblio_fieldwork1.html

@@ -1,0 +1,135 @@
+Analog electronics
+Mathematics Operational Research
+Social political Sciences
+Analytical Chemistry
+Medicine/Health Sciences
+Bio-chemistry
+Naval Architecture Introduction
+International Relations
+Civil Engineering
+Information Processing
+Molecular Biology
+Geophysics
+Geochemistry
+Earth Sciences Rural Engineering
+Operating systems
+Human Sciences introduction
+Litterature
+Religions/Theology
+General Sundry
+Networks
+Probability
+Hydrology
+Meteorology introduction
+Mineralogy
+Oceanography
+Paleontology
+Relativity Introduction
+Electrotechnics Introduction
+Geology Introduction
+Genetics Introduction
+Thermodynamics introduction
+Cristallography
+Biology
+Botany
+Mycology
+Statistics
+Micro-biology
+Electrodynamics
+Microtechnics
+Electrostatics
+Physical Chemistry
+Electromagnetism
+Spectroscopy
+Organic Chemistry
+History
+Psychology
+Biophysics
+Philosophy
+
+
+
+Optics
+Plasma Physics
+Astronomy
+Acoustics
+Cosmology
+Immunology
+Embryology
+Pharmacology
+Pathology
+Geophysics
+Anatomy
+
+
+Arts
+Geography
+Forestry
+Solid State Physics
+Statistical/Wave Mechanics
+Quantum Physics
+General/Sundry
+Agriculture/Agronomy
+Thermodynamics
+Inorganic Chemistry
+Chemical Engineering
+Cristallography
+Physics/Astrophysics
+General/Sundry
+General/Sundry
+General/Sundry
+General/Sundry
+General/Sundry
+Mechanics/Mecatronics
+Informatics/Information Processing
+General/Sundry
+Industrial Art
+General/Sundry
+General/Sundry
+General/Sundry
+General/Sundry
+Sociology
+Criminology
+Law
+Languages
+International Relations
+Botany/Plant Biology
+Ecology
+Citology
+Histology
+Human Resources
+Zoology
+Accounting
+Systematics
+Organization
+Project Management
+Public Administration
+Graphic Arts
+Visual Arts
+Electrotechnics
+Music
+Painting
+Human and Social Sciences
+General/Sundry
+Civil Engineering/Architecture
+Exact, Natural and Engineering Sciences
+Material Science
+Economy/Management
+General/Sundry
+Molecular Biology
+Electricity/Electronics
+General/Sundry
+Geographical Information Systems
+Communication
+Communications/Networks
+Linguistics
+Educational Sciences
+
+Nuclear/Particles Physics
+Fluid Mechanics
+Automatics/Control Engineering
+Aerospace Engineering
+Set Theory
+Differential Calculus
+Arithmetics/Number Theory
+Algebra

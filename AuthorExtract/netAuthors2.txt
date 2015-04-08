@@ -1,0 +1,105 @@
+TOUT EST ANNOTE
+-------------------------------- anglais ---------------------------------------------
+
+http://student-mcs.skyrock.com/ --student-mcs
+http://www.ccdmd.qc.ca/fr/exercices_interactifs/?id=90 --ccdmd
+http://www.learnenglishfeelgood.com/fr/ --learnenglishfeelgood.com
+http://www.iedm.org/main/exercise_fr.php --IEDM 
+http://www.ccdmd.qc.ca/fr/exercices_pdf/?id=42 --Annie Desnoyers et Josée Nadeau
+http://www.univ-metz.fr/english/index.html --Julien Falgas 
+http://www.univ-metz.fr/english/welcome.html --falgas
+http://www2.ulg.ac.be/cior-fsa/enseign/coursve.htm --Stéphane Lassaux
+http://www.chem.uottawa.ca/CUPE2626.html --University of Ottawa
+http://www.universites-formations-alsace.fr/EN/sitemap/index.html --pôle universitaire européen de strasbourg
+http://www.jle.com/fr/revues/bio_rech/abc/e-docs/00/00/C5/B0/article.md?type=text.html --John Libbey Eurotext
+http://bibliographienationale.bnf.fr/Livres/CuM_01.H/cadre54-1.html --Bibliothèque nationale de France
+http://www.borealc.on.ca/index.asp?ref=555&ig=10&ts=1 --collège boréal
+http://www2.ulg.ac.be/cior-fsa/enseign/coursve.htm --Stéphane Lassaux
+http://wims.unice.fr/wims/wims.cgi?lang=fr&+session=8PE198B854.1 --WIMS
+http://wims.unice.fr/wims/fr_H3~stat~docstat.fr.html --jean-baptiste frondas et bernadette perrin-riou
+http://www.athabascau.ca/cll/french_courses.php --Student and Academic Services for CLL
+http://www.arthistoryflorence.com/ --waldemar de boer
+http://www.u-bordeaux3.fr/en/courses.html --université michel de montaigne
+http://www.cosmovisions.com/Ramsay.htm -- serge jodra
+http://www.univ-metz.fr/recherche/ihm2008/anglais/comites.html --pecci
+http://www.cite-sciences.fr/francais/ala_cite/college/04-05/conferences/01-05-langage/01-dessalles/res.htm --cité des sciences et de l'industrie- direction sciences et société
+http://www.cite-sciences.fr/francais/ala_cite/college/02-03/cours/09-02-cerveau/11-steels/accueil.htm --Jean-Louis Dessalles
+http://www.isc.cnrs.fr/liens_internet/discipline/education.htm --Institut des Sciences Cognitives
+http://www.univ-savoie.fr/Portail/Groupes/DoctoralSchoolChyTurin/Index.html --université de savoie
+http://pimsleur.english-test.net/pimsleur-language-programs.html --pimsleur.english-test.net
+
+nbWithoutTitle = 265
+-------------------------------- Francais ---------------------------------------------
+
+
+http://www.college4vents.net/portail.php?id=8 --college aux quatre vents
+http://pagesperso-orange.fr/sitasima/ --chantal pélissier
+http://www.u-paris2.fr/ifp/formation/licence/for_lic$presentation.htm --institut français de presse
+http://www.antoineamelie.com/devoirs.shtml --antoine et amelie
+http://www.cngof.asso.fr/ --cngof
+http://www.soutien-adom.fr/soutien-scolaire/examen/college/cours-de-francais.html --soutien scolaire
+http://www.langue-onze.asso.fr/cours_francais/cours_anglais_toulouse.html --langue onze toulouse
+http://www.webdlambert.com/exercice-de-francais.html --daniel lambert
+http://exercices.free.fr/ --fred
+http://www.webzinemaker.com/admi/m6/page.php3?num_web=3172&rubr=3&id=248498 --Henry-Jacques Buchkremer
+http://www.univ-lemans.fr/enseignements/chimie/02/ --C. Jacoboni 
+http://smp5.ift.fr/ --Benzekri Youness
+http://pedagogie.ac-amiens.fr/histoire_geo_ic/spip.php?article634 --Frédéric Stévenot
+http://www.sciences-de-la-terre.com/annuaire/index.php --anhuta turpin et coco chataigner
+http://rmdiscala.free.fr/ --RM di Scala
+http://bourse.lesechos.fr/bourse/cours.jsp?Code=FR0004038099&Place=00025-TD&Codif=ISI --© 2008 - les echos
+http://www.nicolas-informatique.fr/cours.php --nicolas informatique
+
+nbWithoutTitle = 170
+nbWithoutTitle = 148
+
+-------------------------------------------------- melange ------------------------------------------------------------
+
+
+http://www.sprachcaffe.com/francais/ --sprachcaffe
+http://www.imineo.com/formation/cours-de-langue/cours-allemand/video-cours-allemand.htm --W4TCH TV
+http://www.tandem-schools.com/cours/cours_allemand/index.html --tandem 
+http://toulousoud.com/cours-oud-toulouse-musique-arabe.php --Vanina Holgado
+http://www.timone.univ-mrs.fr/medecine/index.html --Ghislaine Hancy
+http://www.boudu.org/modules.php?name=Forum --Gosse & York
+http://www.monde-diplomatique.fr/2004/02/DE_SARDAN/11008 --Jean-Pierre Olivier de Sardan
+http://www.cdt.fr/ --yodatech
+http://www.accomplissement-de-soi.org/cours_gestion_stress.html --Bruno Lallemen
+http://www.accomplissement-de-soi.org/ --Bruno Lallemen
+http://cours-clement.com/horaire.php3 --valerie
+http://coachadom.sport.fr/664084/Cours-du-13-Octobre-4/ --Laurent 
+http://www.pacte-minceur.com/ --Marc Van Den Broeck
+http://atelier97.free.fr/ --Business Broker
+http://sos-net.eu.org/ --carine diebolt et serge diebolt
+http://www.uqtr.ca/%7Emarcouxj/NotesCours/TraitDeTexte.html --jean marcoux (uqtr-sciences de l'éducation)
+http://www.termisti.refer.org/cours.htm --centre de recherche termisti
+http://ecoles.ville-taverny.fr/spip.php?rubrique6 --Mairie de Taverny
+http://www.webzinemaker.com/admi/m6/page.php3?num_web=3172&rubr=3&id=308671 --H-J. Buchkremer  
+http://www.ecole-du-vin.fr/oenologie/ --ECOLE DU VIN DE PARIS
+http://www.cours-danse-et-salsa-toulouse.com/ --Gilles VEZIEN
+http://www.pierrelautier.com/index.php?section=Photographie%20et%20Art%20Plastique --pierre lautier
+http://www.lafourmi.be/contenu/produits/bricoler/bricoler_plastique.html --luc laurent
+http://www.koronin.com/pedagogie.html --Isabelle Morin
+http://www.tela-botanica.org/page:chorologie --Tela Botanica
+http://www.webzinemaker.com/admi/m6/page.php3?num_web=3172&rubr=4&id=34413 --H-J. Buchkremer
+http://www.medicine.uottawa.ca/Students/MD/Admissions/fra/cours_premiers_soins.html --Université d'Ottawa
+http://www.gymcenter.fr/ --gymcenter et atelier j-net
+http://www.123yoga.net/ --isabelle silvagnoli
+http://www.encyclopeche.com/ED-anguille.htm --R. de Saint-Seine
+http://www.divinologue.com/horoscope-amour/poissons.php --Michel de la Capestal 
+http://www.ecologie.gouv.fr/emeddiat/article.php3?id_article=175 --Laurent Mignaux
+http://www.ghfpbam.org/GBB/index.php --genealogie et histoire des familles - ghfpbam
+http://www.lacunza.com/Espagnol/vivre-saint-sebastien.php --San Sebastian
+http://www.ville-douelafontaine.fr/pages/cadre_de_vie/chantiers.php --Mairie de Doué-la-Fontaine 
+http://www.francparler.org/fiches/environnement_sommaire.htm --Elodie Ressouches
+http://www.unige.ch/droit/e-cours/index.php?cours=5321 --Anne Petitpierre-Sauvain
+http://www.charente-maritime.org/la_charente-maritime/patrimoine/patrimoine_naturel/tourisme_peche/pecher_cours.htm --Conseil Général de la Charente-Maritime 
+http://www.syndicat-des-eaux-17.fr/contenu/travaux.php4 --Z.I. de l'Ormeau de Pied
+http://www.jedecouvrelafrance.com/f-1942.nievre-circuit-magny-cours.html --jdlf
+http://www.croixrouge.ca/article.asp?id=000882&tid=024 --croix-rouge canadienne
+http://www.potiere.com/ --Reynald A N K R I 
+http://poterieduscorpion.com/Cours.html --poterie du scorpion
+http://www.netmaths.net/lexique/default.aspx --paul patenaude
+http://www.webzinemaker.com/admi/m6/page.php3?num_web=3172&rubr=2&id=14081 --webzinemaker
+
+nbWithoutTitle = 933

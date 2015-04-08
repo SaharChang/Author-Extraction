@@ -1,0 +1,136 @@
+http://space.about.com/cs/astronomy101/a/astro101a.htm--Nick Greene--Astronomy 101 - Basic Astronomy Course
+http://darkskyinstitute.org/--Jack C. Troeger--AN INTERNET ASTRONOMY COURSE FOR STUDENTS
+http://www.worldwidelearn.com/online-courses/astronomy-course.htm--Daniel J. Boorstin-Online Courses & Degrees in Astronomy
+http://www.astronomynotes.com/--Nick Strobel--Astronomy Notes
+http://www.badastronomy.com/intro.html--Phil Plait--Bad Astro Shortcuts
+http://robotics.stanford.edu/~nilsson/mlbook.html--Nils J. Nilsson--Introduction to Machine Learning
+http://www.aaai.org/AITopics/pmwiki/pmwiki.php/AITopics/MachineLearning--Oliver Selfridge--Machine Learning
+http://www.psychstat.missouristate.edu/introbook/sbk01.htm--David W. Stockburger--INTRODUCTION
+http://www-stat.wharton.upenn.edu/~steele/Courses/955/955index.html--J. Michael Steele--Stochastic Calculus and Financial
+http://www.stat.cmu.edu/~cshalizi/754/--Cosma Shalizi--Stochastic Processes (Advanced Probability II), 36-754
+http://www.cybergeo.eu/index727.html--Denise Pumain--Cartography and Artificial Intelligence
+http://www.purplemath.com/modules/absolute.htm--Stapel Elizabeth--Absolute Value
+http://www.pcguide.com/ref/mbsys/cache/funcMapping-c.html--Charles M. Kozierok--Cache Mapping and Associativity
+http://www.trinary.cc/Tutorial/Algebra/Binary.htm--Steve Grubb--
+http://www.economicexpert.com/a/Binary:operation.htm--Fri Jan-- Binary operation
+http://logic.stanford.edu/kif/Hypertext/node47.html--Vishal I. Sikka-- Binary Operations
+http://www.russinoff.com/libman/text/node15.html--David Russinoff--Binary Operations
+http://www.dei.ist.utl.pt/~ped/Publications/ca.html--Pedro Diniz--Commutativity Analysis
+http://www.ee.surrey.ac.uk/Projects/Labview/boolalgebra/--David Belton--Boolean Algebra
+http://www.math.uwaterloo.ca/~snburris/htdocs/scav/boolean/boolean.html--Stanley Burris--Boolean algebra
+http://www.math.csusb.edu/notes/sets/boole/boole.html--Dan Rinne--Boolean Algebra
+http://www.drowlord.com/education/logic_design/h01.html--Joshua Jacobsen-- An Introduction to Boolean Algebra
+http://www.chemguide.co.uk/orgmenu.html--Jim Clark--BASIC ORGANIC CHEMISTRY MENU
+http://web.jjay.cuny.edu/~acarpi/NSC/10-organic.htm--Anthony Carpi--Organic Chemistry
+http://www.wisegeek.com/what-is-organic-chemistry.htm--N. Madison--What is Organic Chemistry?
+http://infomesh.net/2001/swintro/--Sean B. Palmer--The Semantic Web: An Introduction
+http://www.semanticweb.com/article.php/3793876--Jennifer Zaino--InQuira Update Features Multi-Lingual Dictionary
+http://www.netcrucible.com/semantic.html--Joshua Allen--Making a Semantic Web
+http://encyclopedia.jrank.org/articles/pages/6898/Semantic-Web.html--Schahram Dustdar--Semantic Web - Introduction, Semantic web benefits and detailed example, Owl syntax and description of selected key aspects1, Classes and subclasses, Class intersection, disjointedness and individual equivalency, Properties
+http://www.domedia.org/oveklykken/semantic-web.php--Ove Klykken--Introduction to Semantic Web
+http://articles.techrepublic.com.com/5100-10878_11-5552998.html?part=rss&tag=feed&subj=tr--Greg Ross--An introduction to Tim Berners-Lee's Semantic Web
+http://infomesh.net/2002/swhaiku/--Sean B. Palmer-- to the hard Semantic Web...
+http://computer.howstuffworks.com/semantic-web.htm--Tracy V. Wilson--How Semantic Web Works
+http://www.jogiles.co.nz/blog/?p=78&cpage=1--Jonathan Giles--Introduction to the Semantic Web
+http://www.library.uq.edu.au/iad/ctmeta4.html--Chris Taylor--An Introduction to Metadata
+http://www.language-archives.org/documents/gentle-intro.html--Jeff Good--A Gentle Introduction to Metadata
+http://www.itb.hu/fejlesztesek/meta/hgls/core/Background/An_Introduction_to_Metadata.htm--Chris Taylor--An Introduction to Metadata
+http://www.w3.org/TR/NOTE-rdf-simple-intro-971113.html--Ora Lassila--Introduction to RDF Metadata
+http://www.sdvc.uwyo.edu/metadata/metapaper.html--Margo Berendsen--Development of Metadata Education Strategies
+http://www.ncgia.ucsb.edu/ige98/report/metadata_task.html--Karen Kemp--Metadata for GIScience Education Materials
+http://www.cancore.ca/pilot.html--Norm Friesen--CanCore Pilot Project: Enhancing LAC Metadata for Canadian Learning Resources
+http://www.infoworld.com/article/08/01/15/sparql-semantic-web_1.html--Paul Krill--Semantic Web takes big step forward
+http://www.dlib.org/dlib/may02/wagner/05wagner.html--Rachel Heery--A Metadata Registry for the Semantic Web
+http://www.dajobe.org/talks/sw-vienna/--Dave Beckett--The Semantic Web Today
+http://adage.com/digitalnext/article?article_id=132815--Marta Strickland--What the Semantic Web or Web 3.0 Can Do for Marketers
+http://www.computerweekly.com/Articles/2006/05/30/216145/semantic-web-ready-to-implement.htm--Cliff Saran--Semantic web 'ready to implement'
+http://www.bio-itworld.com/newsitems/2006/april/04-10-06-news-sematic-web--Catherine Varmazis--Spearheading the Semantic Web
+http://www.computer.org/portal/site/computer/menuitem.5d61c1d591162e4b0ef1bd108bcd45f3/index.jsp?&pName=computer_level1_article&TheCat=1075&path=computer/homepage/0108&file=webtech.xml&xsl=article.xsl&;jsessionid=JnwLhKHCTYRnX1TlwvZNkBwY76v5TcBhg30VyCz6PbGsXBjF70Kf!584663894--Jim Hendler--Web 3.0: Chicken Farms on the Semantic Web
+http://www.sitepoint.com/article/semantic-web-services/--H. Peter Alesso--Preparing for Semantic Web Services
+http://www.xml.com/pub/a/2007/03/14/a-relational-view-of-the-semantic-web.html--Andrew Newman--A Relational View of the Semantic Web
+http://razor.occams.info/code/semweb/--Joshua Tauberer--Semantic Web/RDF Library for C#/.NET
+http://sweet.jpl.nasa.gov/--Rob Raskin--Semantic Web for Earth and Environmental Terminology (SWEET) 
+http://arstechnica.com/news.ars/post/20080529-the-semantic-web-gets-a-boost-from-functional-mris.html--Chris Lee--The semantic web gets a boost from functional MRIs
+http://www.searchenginejournal.com/the-semantic-web-its-implications-on-search-marketing/5390/--Michael Marshall--The Semantic Web & Its Implications on Search Marketing
+http://browsers.suite101.com/article.cfm/how_the_semantic_web_is_changing_search_engines--Allan Cho--How the Semantic Web is Changing Search Engines
+http://www.philosophyofinformation.net/blog/2007/06/semantic-web-and-chinese.html--Luciano Floridi-- Semantic Web and Chinese
+http://www.slis.kent.edu/~mzeng/metadata/semanticweb/intro-en.htm--Marcia Lei Zeng--The Semantic Web Applications
+http://www.theregister.co.uk/2005/02/17/semantic_web/--Lucy Sherriff--University launches semantic web interface
+http://blogs.zdnet.com/semantic-web/?p=105--Paul Miller--The Semantic Web
+http://www.oreillynet.com/xml/blog/2005/09/sparql_web_20_meet_the_semanti.html--Kendall Clark--SPARQL: Web 2.0 Meet the Semantic Web
+http://business.theglobeandmail.com/servlet/story/RTGAM.20090109.WBmarkets20090109090133/WBStory/WBmarkets--David Berman--Premarket: All jobs, all the time
+http://uk.reuters.com/article/oilRpt/idUKL919205020090109--Fri Jan--ANALYSIS-Gas row risks long-term damage to Russia's reputation
+http://www.nationalpost.com/sports/story.html?id=1158949--Michael Traikos--Kaberle open to trade if Leafs ask
+http://www.welt.de/english-news/article2990994/Obama-wants-stimulus-package-and-new-regulation.html--Caren Bohan--Obama wants stimulus package and new regulation
+http://williamstallings.com/OS4e.html--William Stallings--Technical Resources and Course Web Site for
+http://pages.cs.wisc.edu/~solomon/cs537.html--Marvin Solomon--Introduction to Operating Systems
+http://gustavus.edu/+max/java-os-courses.html--Max Hailperin--Java in Operating Systems Courses
+http://williamstallings.com/Extras/OS-Notes/notes.html--Martin C. Rinard--Operating Systems Lecture Notes 
+http://www.cs.umsl.edu/~sanjiv/classes/cs4760/--Sanjiv K. Bhatia--CS 4760 -- Operating Systems
+http://www.iu.hio.no/~mark/os/os.html--Mark Burgess--A short introduction to operating systems
+http://pages.cs.wisc.edu/~bart/cs537.html--Barton Miller--CS 537: Introduction to Operating Systems
+http://integrallife.com/editorial/integral-operating-system-introduction--Ken Wilber--The Integral Operating System: Introduction
+http://osxbook.com/book/bonus/chapter1/--Amit Singh--A Technical History of Apple's Operating Systems
+http://www-math.bgsu.edu/~albert/m115/probability/outline.html--Jim Albert--AN INTRODUCTION TO PROBABILITY
+http://www.sjsu.edu/faculty/wooda/muse/intro.html--Andrew Wood--Introduction
+http://weeds.ippc.orst.edu/pnw/weeds?20W_FORS01.dat--MIKE NEWTON-- FORESTRY 
+http://www.watershedcommittee.org/wordpress/?p=310--Mike K--Forestry Learning Station
+http://solidstate.physics.sunysb.edu/teach/intlearn/--Carlos Rivera--Solid State Physics: Interactive Learning
+http://pages.physics.cornell.edu/sss/--R. H. Silsbee--The Solid State Simulation (SSS) Project
+http://newton.ex.ac.uk/research/qsystems/people/jenkins/mbody/--Stephen Jenkins--An Introduction to Solid State Many-Body Theory
+http://plato.stanford.edu/entries/statphys-statmech/--Lawrence Sklar--Philosophy of Statistical Mechanics
+http://www.atm.ox.ac.uk/user/read/fluids.html--Peter Read--Paper B3: Physics of Fluid Flows
+http://www2.warwick.ac.uk/fac/sci/physics/teach/syllabi/year2/px264--Jim Robinson-- PX264 Physics of Fluids
+http://www.apam.columbia.edu/courses/apph4200x/--Michael Mauel--APPH E4200 Site Information
+http://www4.ncsu.edu/unity/lockers/users/f/felder/public/kenny/papers/quantum.html--Gary Felder and Kenny Felder--Quantum Mechanics
+http://www.krysstal.com/quantum.html--KryssTal--Quantum Mechanics
+http://www.quantumintro.com/--Todd Stedl--Intro to Quantum Mechanics
+http://www.thebigview.com/spacetime/--Thomas Knierim--
+http://people.ccmr.cornell.edu/~muchomas/8.04/--Tomás A. Arias--Introduction to Quantum Physics Home Page
+http://www.light-science.com/qmintro.html--Jeanette Cain--Quantum Mechanics - An Introduction
+http://www.physics.utoronto.ca/~aephraim/256.html--Aephraim M. Steinberg-- Introduction to Quantum Physics
+http://physics.about.com/od/physics101thebasics/p/PhysicsLaws.htm--Andrew Zimmerman Jones--Major Laws of Physics
+http://adsabs.harvard.edu/abs/2001JPhA...34.4887I--Iliev, Bozhidar Z--Fibre bundle formulation of nonrelativistic quantum mechanics: I. Introduction. The evolution transport
+http://www.compadre.org/quantum/items/detail.cfm?ID=3217--David Stern--Introduction to Quantum Physics
+http://bouman.chem.georgetown.edu/S02/lect9/lect9.htm--Angel C. de Dios--Quantum Mechanics is the Foundation of Chemistry
+http://galileo.phys.virginia.edu/classes/751.mf1i.fall02/02_751_Intro.htm--Michael Fowler--Introduction: Early Quantum Mechanics
+http://plato.stanford.edu/entries/qm-relational/--Federico Laudisa--Relational Quantum Mechanics
+http://spectroscopyonline.findanalytichem.com/spectroscopy/article/articleDetail.jsp?id=507428--David W. Ball--Spectroscopy Is Applied Quantum Mechanics, Part III: Introduction to Quantum Mechanics
+http://www.phys-astro.sonoma.edu/people/faculty/Tenn/p314/index.html--J.S. Tenn--Physics 314  Introduction to Physics III
+http://www.integralscience.org/psyche-physis.html--Thomas J. McFarlane--Quantum Physics,Depth Psychology,and Beyond
+http://www.physics.qc.edu/pages/deych/Quantum%20Mechanics/Introduction_Quantum_Mechanics.htm--Lev Deych--Principles of Quantum Mechanics
+http://www.phys.vt.edu/~quantum/--T. Takeuchi--The Virginia Tech Quantum Mechanics Homepage
+http://eve.physics.ox.ac.uk/Personal/steane/qcintro.html--A. M. Steane--Quantum computing: Introduction
+http://www.nyu.edu/classes/tuckerman/quant.mech/lectures/lecture_7/node3.html--Mark Tuckerman--Total orbital angular momentum
+http://inorganic-chemistry.suite101.com/article.cfm/what_is_inorganic_chemistry--Simon Davies--What is Inorganic Chemistry?
+http://www.newi.ac.uk/BUCKLEYC/atomic.htm--Clive Buckley--Introduction to Atomic Structure
+http://www.hull.ac.uk/chemistry/intro_inorganic/Chap1.htm--P.G. Nelson--Inorganic Chemistry
+http://antoine.frostburg.edu/chem/senese/101/inorganic/faq.shtml--Fred Senese--Introduction to inorganic chemistry:Frequently asked questions
+http://w3.rz-berlin.mpg.de/ac/introduction.html--Robert Schlögl--Department of Inorganic Chemistry
+http://www.fys.uio.no/plasma/english/texts/plsmgenintro/plsmgenintro.html--Hans Pécseli
+http://www.plasmaphysics.org.uk/--Thomas Smid
+http://www.chem.utoronto.ca/coursenotes/CHM217/--David C. Stone
+http://elchem.kaist.ac.kr/vt/chem-ed/analytic/ac-basic.htm--Brian M. Tissue--Analytical Chemistry Basics
+http://science.widener.edu/svb/stats/stats.html--Scott Van Bramer--Statistics for Analytical Chemistry
+http://elchem.kaist.ac.kr/vt/chem-ed/analytic/ac-intro.htm--Brian M. Tissue--Introduction to Analytical Chemistry
+http://www.badpets.net/IntroGIS/--Harold Reynolds--An Introduction To Geographical Information Systems(GIS)
+http://www.physicalgeography.net/fundamentals/2f.html--Michael Pidwirny--CHAPTER 2: Maps, Remote Sensing, and GIS
+http://www.extension.umn.edu/distribution/naturalresources/DD5740.html--Daniel L. Falbo and Lloyd P. Queen and Charles R. Blinn-- Geographic Information Systems
+http://aqua.wisc.edu/CPR/IntroductiontoGeographicInformationSystemsGIS/tabid/78/Default.aspx--David Hart--Introduction to Geographic Information Systems GIS
+http://www.isat.jmu.edu/env/edss/grass/index.htm--Cate Wardell--
+http://gis.washington.edu/cfr250/main/schedule.html--Phil Hurvitz-- Schedule of Classes and Assignments
+http://www.me.vccs.edu/programs/gis/index.html--Susan Kennedy--
+http://www.uni-marburg.de/iusp/programinformation/fall08/gis--Cornelia Janus--Dr. Christoph Reudenbach: Introduction to Geographic Information Systems
+http://webby.lst.se/strategis/english/Introduction%20to%20GIS.htm--Ulrik Mårtensson--INTRODUCTION TO GEOGRAPHICAL INFORMATION SYSTEMS
+http://www.flashperfection.com/tutorials/Differential-Calculus-An-Introduction-...-35925.html--Brandon Williams--Differential Calculus: An Introduction
+
+
+-------------------------------------------- ORG ---------------------------------------------------------
+http://www.mathleague.com/help/algebra/algebra.htm--Math League Press--Introduction to Algebra
+http://docs.hp.com/en/36216-90212/ch07s09.html--Hewlett-Packard Development Company--Binary Operations
+http://www.schemas-forum.org/registry/schemas/DCMI-Education/index.html--UK Office for Library and Information Networking-- The DCMI Education Metadata Set
+http://erikduval.wordpress.com/2005/03/29/automatic-generation-of-lom-metadata/--erikduval--Automatic Generation of (LOM) Metadata
+http://courses.forestry.ubc.ca/--UBC Faculty of Forestry--Forestry Course Websites
+http://esciencenews.com/articles/2008/09/25/new.graphene.based.material.clarifies.graphite.oxide.chemistry--University of Texas--New graphene-based material clarifies graphite oxide chemistry
+http://www.krysstal.com/organic.html--KryssTal--An Introduction to Organic Chemistry
+http://www.efunda.com/formulae/fluids/overview.cfm--eFunda--Fluid Preliminaries

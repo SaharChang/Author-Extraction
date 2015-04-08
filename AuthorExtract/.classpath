@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/aspriseOCR.jar"/>
+	<classpathentry kind="lib" path="lib/cobra.jar"/>
+	<classpathentry kind="lib" path="lib/googleapi.jar"/>
+	<classpathentry kind="lib" path="lib/jawin.jar"/>
+	<classpathentry kind="lib" path="lib/jaxen-1.0-FCS-full.jar"/>
+	<classpathentry kind="lib" path="lib/jaxme2-rt.jar"/>
+	<classpathentry kind="lib" path="lib/jaxmeapi.jar"/>
+	<classpathentry kind="lib" path="lib/jaxmexs.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jericho-html-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/js.jar"/>
+	<classpathentry kind="lib" path="lib/lingpipe-3.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/lingpipe-demos.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-jdbc.jar"/>
+	<classpathentry kind="lib" path="lib/qtag.jar"/>
+	<classpathentry kind="lib" path="lib/qtoken.jar"/>
+	<classpathentry kind="lib" path="lib/rome-0.6.jar"/>
+	<classpathentry kind="lib" path="lib/saxpath-1.0-FCS.jar"/>
+	<classpathentry kind="lib" path="lib/themis-0.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/Tidy.jar"/>
+	<classpathentry kind="lib" path="lib/weka.jar"/>
+	<classpathentry kind="lib" path="lib/weka-src.jar"/>
+	<classpathentry kind="lib" path="lib/yahoo_search-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/changuel/eclipse-SDK-3.4-win32/eclipse/workspace/AuthorExtract/lib/htmlparser.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
